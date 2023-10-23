@@ -1,6 +1,6 @@
 # Lex Design Academy Mordern UI
 
-<img src='../Lex-Academy/src/assets/homepage2.jpg'>
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

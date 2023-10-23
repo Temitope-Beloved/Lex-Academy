@@ -6,9 +6,9 @@ import homepage3 from '../assets/homepage3.png'
 const Hero = () => {
   return (
     <div >
-      <div className='flex justify-center gap-6 '>
-        <div className='text-left teacking-wider '>
-          <h2 className='font-semibold text-5xl lg:w-[400px] md:w-[400px] pb-8 '>Elevate your learning  with our Tech course</h2>
+      <div className='flex justify-around lg:p-10 '>
+        <div className='text-left teacking-wider  '>
+          <h2 className='font-semibold tracking-wider leading-14 text-5xl lg:w-[400px] md:w-[400px] pb-8    lg:text-5xl'>Elevate your learning  with our Tech course</h2>
          
           <p className='text-left text-md tracking-wider leading-relaxed max-w-[400px]'>Joining Lex Design Academy is the parfect way to learn any skill, anywhere. With our state-of-the-art learnig tools and resources, you can master any skill at your own pace</p>
           <button className='bg-secondary rounded-md text-white text-lg font-semibold  p-3'>Start learning now</button>
