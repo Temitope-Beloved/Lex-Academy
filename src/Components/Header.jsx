@@ -29,7 +29,7 @@ const Header = () => {
       <div className=' hidden md:flex lg:flex '><span className='inline-flex space-x-6 font-semibold text-xl'>{display}</span></div>
       <div className='hidden md:flex lg:flex'>
         <span className='inline-flex items-center gap-10'><img src={search} alt="search" />
-        <button className='border-2 border-black/30 rounded-md text-secondary text-lg font-semibold p-3'>Course Plan</button></span>
+        <button className='border-2 border-secondary rounded-md text-secondary text-lg font-semibold p-3 px-6 mr-5'>Login</button></span>
 
       
       </div>
