@@ -1,12 +1,10 @@
 import React from 'react'
-import Header from './Components/Header'
-import Hero from './Components/Hero'
+import Homepage from './Pages/Homepage'
 
 const App = () => {
   return (
     <div>
-      <Header/>
-      <Hero/>
+      <Homepage/>
     </div>
   )
 }

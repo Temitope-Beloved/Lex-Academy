@@ -1,12 +1,11 @@
 import React from 'react'
-import homepage1 from '../assets/homepage1.jpg'
-import homepage2 from '../assets/homepage2.jpg'
-import homepage3 from '../assets/homepage3.png'
-
+import homepage1 from '../../assets/homepage1.jpg'
+import homepage2 from '../../assets/homepage2.jpg'
+import homepage3 from '../../assets/homepage3.png'
 const Hero = () => {
   return (
     <div >
-      <div className='flex justify-between  items-center mx-16 pt-7'>
+      <div className='flex justify-between h-[90vh] items-center mx-16 pt-7'>
         <div className='text-left teacking-wider  '>
           <h2 className='font-semibold tracking-wider leading-14 text-5xl lg:w-[600px] md:w-[400px] pb-8    lg:text-6xl'>Elevate your learning  with our Tech course</h2>
          
